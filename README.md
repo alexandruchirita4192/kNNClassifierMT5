@@ -7,6 +7,8 @@ k-Nearest Neighbors classifier
 - Non-parametric
 - Sensitive to feature scaling
 
+## Disclaimer: It has not produced any transactions on a long period of time (6 months) on XAGUSD so it is not used for trading, it is only as proof of concept that it runs (not doing anything, but runs).
+
 ## Training
 
 ```text
